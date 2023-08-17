@@ -1,0 +1,3 @@
+Num = int(input("Enter a value:"))  
+Temp = num  
+Rev = 0
